@@ -1,2 +1,3 @@
 firebase = npm install firebase
 react-router-dom = npm install react-router-dom
+react-toastify = npm install react-toastify
