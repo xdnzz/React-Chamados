@@ -1,3 +1,5 @@
 firebase = npm install firebase
 react-router-dom = npm install react-router-dom
 react-toastify = npm install react-toastify
+react-icons = npm install react-icons
+date-fns = npm install date-fns
